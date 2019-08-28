@@ -144,6 +144,7 @@ openshift_metrics_storage_nfs_options='*(rw,root_squash)'
 openshift_metrics_storage_volume_name=metrics
 openshift_metrics_storage_volume_size=10Gi
 openshift_metrics_storage_labels={'storage': 'metrics'}
+openshift_metrics_storage_nfs_server=support1.92a9.internal
 openshift_metrics_cassandra_pvc_storage_class_name=''
 
 
